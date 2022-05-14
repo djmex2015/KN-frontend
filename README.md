@@ -1,2 +1,0 @@
-# kn-frontend
- Contact List
